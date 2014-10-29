@@ -1,0 +1,5 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ReferencePath>C:\Windows\Microsoft.NET\Framework\v3.5\</ReferencePath>
+  </PropertyGroup>
+</Project>
