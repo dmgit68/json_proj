@@ -3,3 +3,4 @@ new change 1
 new change 2
 bad comment
 new feature
+test conflict
