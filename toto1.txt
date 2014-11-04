@@ -4,3 +4,4 @@ new change 2
 bad comment
 new feature
 test conflict
+toto1
