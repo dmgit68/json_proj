@@ -5,3 +5,4 @@ bad comment
 new feature
 test conflict
 toto1
+t2
